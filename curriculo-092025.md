@@ -11,8 +11,6 @@
 ## Objetivo Profissional
 
 Desenvolvedor Full-Stack | Apaixonado por tecnologia, com interesse em construir aplicações modernas e impactantes, contribuindo para o desenvolvimento de soluções inovadoras.
-Estou em busca de uma oportunidade para desenvolver minhas habilidades como Desenvolvedor Full-Stack em um ambiente dinâmico e inovador.
-
 
 ---
 
@@ -40,6 +38,26 @@ Estagiário de Desenvolvimento de Sistemas especializado em automação de proce
 - **Tecnologias**: JavaScript, HTML/CSS, automação de planilhas, integração de APIs
 - **Otimização**: Redução significativa de tempo em processos administrativos através de automações, implementação de validações de dados e criação de relatórios automatizados
 - **Metodologias**: Análise de processos, documentação técnica, foco em soluções práticas para ambiente de gestão educacional
+
+---
+
+## Experiência Voluntária
+
+### Voluntário  | Eventos Codecon
+**2024 - Presente**
+
+Voluntário comprometido com uma abordagem dinâmica e multifacetada para engajamento comunitário. Contribuo para a organização de eventos em duas capacidades principais:
+
+**Engajamento Pré-Evento:**
+- Colaboro estreitamente com a equipe organizadora durante reuniões de alinhamento anuais
+- Forneço contribuições estratégicas e ideias inovadoras para aprimorar o planejamento e execução de eventos
+
+**Suporte Durante Eventos:**
+- Presto assistencia ativamente em aspectos operacionais durante eventos principais e meetups
+- Forneço suporte abrangente para logística e operação de salas e apresentações
+- Demonstro versatilidade adaptando-me a diversos papéis e responsabilidades conforme necessário
+
+Meu trabalho voluntário é caracterizado por participação proativa, atenção aos detalhes e espírito colaborativo, garantindo experiências de eventos suaves e bem-sucedidas.
 
 ---
 
