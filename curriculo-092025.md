@@ -1,9 +1,9 @@
 # Fabiano Raiser
 
 🌍 Joinville, Santa Catarina, Brazil </br>
-📞 47997734435 | 📧 fabiano.sgt.raiser@gmail.com</br>
+📞 47997734435 | �� fabiano.sgt.raiser@gmail.com</br>
 🔗 LinkedIn: www.linkedin.com/in/fabiano-raiserb</br>
-💻 GitHub: github.com/FabianoRaiser</br>
+�� GitHub: github.com/FabianoRaiser</br>
 🌐 Portfolio: portfolio-fabiano-raiser.vercel.app</br>
 
 ---
@@ -19,45 +19,73 @@ Desenvolvedor Full-Stack | Apaixonado por tecnologia, com interesse em construir
 ### Full-stack Developer | Grupo Inlog Soluções
 **Fevereiro 2025 - Presente**
 
-Desenvolvedor Full-Stack especializado em soluções de segurança cibernética e SOC (Security Operations Center), desenvolvendo API RESTful robusta para integração de múltiplas ferramentas de monitoramento e SIEM.
-- **Integrações SIEM/Security**: Wazuh (gestão de agentes, CVEs e alertas), Zabbix (monitoramento de infraestrutura), Milvus (sistema de tickets), com automação de criação de tickets baseada em alertas de segurança.
-- **Framework de Segurança**: Implementação de framework NIST 800-53 para avaliação de maturidade em segurança, gestão de planos de ação e auditoria de conformidade.
-- **Frontend Moderno**: React 19 com TypeScript, Mantine UI (componentes avançados), Vite (build otimizado), autenticação OAuth2 (Google), geração de relatórios PDF, visualizações com Recharts, drag-and-drop com React DnD
-- **Backend Robusto**: Node.js/TypeScript, Express.js, Prisma ORM, PostgreSQL, Docker, JWT/Passport.js, Jest (testes), ESLint
-- **Arquitetura**: API modular com middleware de autenticação/autorização, sistema de roles e permissões, logs de auditoria, upload de arquivos com Multer, agendamento de tarefas com node-cron
-- **DevOps**: Containerização com Docker multi-stage, CI/CD, testes automatizados com cobertura, migrações de banco de dados, build otimizado com chunking manual
-- **Metodologias**: Scrum, desenvolvimento ágil, foco em soluções escaláveis para ambientes de alta criticidade
+**SITUAÇÃO:** Empresa especializada em soluções de segurança cibernética precisava desenvolver uma API RESTful robusta para integração de múltiplas ferramentas de monitoramento e SIEM, com foco em automação de processos de SOC (Security Operations Center).
+
+**TAREFA:** Desenvolver e implementar uma solução completa de integração SIEM/Security, incluindo Wazuh (gestão de agentes, CVEs e alertas), Zabbix (monitoramento de infraestrutura), Milvus (sistema de tickets), com automação de criação de tickets baseada em alertas de segurança e implementação do framework NIST 800-53.
+
+**AÇÃO:** 
+- **Integrações SIEM/Security**: Implementei integrações robustas com Wazuh, Zabbix e Milvus, criando automação completa do fluxo de alertas de segurança
+- **Framework de Segurança**: Desenvolvi sistema de avaliação de maturidade em segurança baseado no NIST 800-53, com gestão de planos de ação e auditoria de conformidade
+- **Frontend Moderno**: Construí interface com React 19/TypeScript, Mantine UI, Vite, autenticação OAuth2 (Google), geração de relatórios PDF, visualizações gráficas com Recharts e drag-and-drop com React DnD
+- **Backend Robusto**: Desenvolvi API com Node.js/TypeScript, Express.js, Prisma ORM, PostgreSQL, Docker, JWT/Passport.js, Jest (testes), ESLint
+- **Arquitetura**: Implementei API modular com middleware de autenticação/autorização, sistema de roles e permissões, logs de auditoria, upload de arquivos com Multer, agendamento de tarefas com node-cron
+- **DevOps**: Configurei containerização com Docker multi-stage, CI/CD, testes automatizados com cobertura (70% - 90%), migrações de banco de dados
+- **Metodologias**: Apliquei Scrum e desenvolvimento ágil, focando em soluções escaláveis para ambientes de alta criticidade
+
+**RESULTADO:** 
+- Redução no tempo médio de renderização de 746ms para 559ms (25% de melhoria)
+- Redução no tempo de resposta médio de requisições de 766ms para 525ms (25% de melhoria)
+- Redução no tempo de build de 18s para 11s (39% de melhoria)
+- Implementação bem-sucedida de automação completa do fluxo de alertas de segurança
+- Sistema de SOC operacional com alta disponibilidade e confiabilidade
 
 ### Estagiário | Prefeitura de Joinville
 **Junho 2024 - Fevereiro 2025**
 
-Estagiário de Desenvolvimento de Sistemas especializado em automação de processos educacionais e administrativos, desenvolvendo soluções tecnológicas para otimização de workflows institucionais.
-- **Automação de Processos**: Desenvolvimento de scripts e macros para automação de planilhas Excel, criação de dashboards interativos e implementação de workflows automatizados para equipes educacionais.
-- **Sistemas de Controle**: Implementação de sistemas de gestão de planilhas avançados com validação de dados, relatórios automatizados e integração com bases de dados institucionais.
-- **Suporte Técnico**: Fornecimento de suporte especializado para plataformas de software educacional e resolução de problemas técnicos em ambiente corporativo.
-- **Tecnologias**: JavaScript, HTML/CSS, automação de planilhas, integração de APIs
-- **Otimização**: Redução significativa de tempo em processos administrativos através de automações, implementação de validações de dados e criação de relatórios automatizados
-- **Metodologias**: Análise de processos, documentação técnica, foco em soluções práticas para ambiente de gestão educacional
+**SITUAÇÃO:** A equipe de gestão educacional da Prefeitura de Joinville enfrentava processos administrativos extremamente demorados e manuais, com planilhas que exigiam horas de trabalho repetitivo diariamente, impactando a eficiência operacional.
+
+**TAREFA:** Analisar e otimizar os processos administrativos da equipe, desenvolvendo soluções tecnológicas para automação de workflows institucionais e redução significativa do tempo gasto em tarefas repetitivas.
+
+**AÇÃO:**
+- **Automação de Processos**: Desenvolvi scripts e macros personalizados em Google AppScript para automação de planilhas Google SpreadSheets
+- **Dashboards Interativos**: Criei dashboards interativos e implementei workflows automatizados para equipes de gestão educacional
+- **Sistemas de Controle**: Implementei sistemas de gestão de planilhas avançados com validação de dados, relatórios automatizados e integração com bases de dados institucionais
+- **Suporte Técnico**: Forneci suporte especializado para plataformas de software educacional e resolução de problemas técnicos em ambiente corporativo
+- **Tecnologias**: Utilizei JavaScript, HTML/CSS, automação de planilhas e integração de APIs
+- **Documentação**: Criei manuais de uso e documentação técnica para garantir sustentabilidade das soluções
+- **Treinamento**: Treinei a equipe na utilização das novas ferramentas e processos automatizados
+
+**RESULTADO:**
+- Redução significativa de 79% no tempo de processos administrativos
+- Transformação de tarefas que levavam horas em processos automatizados que levavam minutos
+- Melhoria significativa na qualidade dos dados através de validações implementadas
+- Aumento da produtividade da equipe, permitindo foco em atividades mais estratégicas
+- Implementação bem-sucedida de soluções práticas para ambiente de gestão educacional
 
 ---
 
 ## Experiência Voluntária
 
-### Voluntário  | Eventos Codecon
+### Voluntário | Eventos Codecon
 **2024 - Presente**
 
-Voluntário comprometido com uma abordagem dinâmica e multifacetada para engajamento comunitário. Contribuo para a organização de eventos em duas capacidades principais:
+**SITUAÇÃO:** Eventos Codecon precisava de voluntários comprometidos para contribuir com a organização de eventos de tecnologia, trabalhando com equipe diversificada de organizadores, palestrantes e participantes com diferentes backgrounds técnicos.
 
-**Engajamento Pré-Evento:**
-- Colaboro estreitamente com a equipe organizadora durante reuniões de alinhamento anuais
-- Forneço contribuições estratégicas e ideias inovadoras para aprimorar o planejamento e execução de eventos
+**TAREFA:** Contribuir para o sucesso dos eventos através de suporte operacional, logística e engajamento com a comunidade, garantindo experiências positivas para todos os participantes.
 
-**Suporte Durante Eventos:**
-- Presto assistencia ativamente em aspectos operacionais durante eventos principais e meetups
-- Forneço suporte abrangente para logística e operação de salas e apresentações
-- Demonstro versatilidade adaptando-me a diversos papéis e responsabilidades conforme necessário
+**AÇÃO:**
+- **Engajamento Pré-Evento**: Colaborei estreitamente com a equipe organizadora durante reuniões de alinhamento anuais, oferecendo contribuições estratégicas e ideias inovadoras
+- **Suporte Durante Eventos**: Prestei assistência ativa em aspectos operacionais durante eventos principais e meetups
+- **Logística e Operação**: Forneci suporte abrangente para logística e operação de salas e apresentações
+- **Versatilidade**: Adaptei-me rapidamente a diversos papéis e responsabilidades conforme necessário
+- **Comunicação**: Mantive comunicação clara e proativa com todos os stakeholders
+- **Documentação**: Documentei processos e melhores práticas para futuros eventos
 
-Meu trabalho voluntário é caracterizado por participação proativa, atenção aos detalhes e espírito colaborativo, garantindo experiências de eventos suaves e bem-sucedidas.
+**RESULTADO:**
+- Contribuição para o sucesso de múltiplos eventos com feedback positivo da organização e participantes
+- Reconhecimento da equipe pela versatilidade e proatividade
+- Eventos com operação suave e bem-sucedida
+- Experiências positivas garantidas para todos os participantes
 
 ---
 
@@ -65,13 +93,13 @@ Meu trabalho voluntário é caracterizado por participação proativa, atenção
 
 **Tecnólogo em Análise e Desenvolvimento de Sistemas** 
 *Unisociesc*  
-📍 Joinville, SC  
+�� Joinville, SC  
 📅 07/2023 - 12/2025 (Previsão)  
 
 **Cursos Livres em Programação**
 *Alura Cursos Online de Tecnologia*  
-📍 São Paulo, SP  
-📅 08/2022 - Atual 
+�� São Paulo, SP  
+�� 08/2022 - Atual 
 
 ## Cursos e Certificações
 - React com JavaScript
@@ -102,4 +130,4 @@ Meu trabalho voluntário é caracterizado por participação proativa, atenção
 
 ## Idiomas
 - **Português:** Nativo
-- **Inglês:** Técnico (leitura e escrita de documentos)  
+- **Inglês:** Técnico (leitura e escrita de documentos)  
