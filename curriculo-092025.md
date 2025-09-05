@@ -93,8 +93,8 @@ Meu trabalho voluntário é caracterizado por participação proativa, atenção
 ---
 
 ## Destaques Profissionais
-- Especialista em desenvolvimento de soluções de segurança cibernética e SOC, com experiência em integração de ferramentas SIEM (Wazuh, Zabbix, Milvus) e implementação de frameworks NIST 800-53.
 - Desenvolvedor Full-Stack com expertise em React 19/TypeScript, Node.js, PostgreSQL e Docker, criando aplicações modernas com autenticação OAuth2, geração de relatórios PDF e visualizações interativas.
+- Analista em desenvolvimento de soluções de segurança cibernética e SOC, com experiência em integração de ferramentas SIEM (Wazuh, Zabbix, Milvus) e implementação de frameworks NIST 800-53.
 - Experiência comprovada em automação de processos administrativos e educacionais, reduzindo significativamente o tempo de execução através de scripts, macros e sistemas de controle avançados.
 - Colaboração eficaz em equipes multidisciplinares, fornecendo suporte técnico especializado e promovendo a adoção de ferramentas digitais em ambientes corporativos e educacionais.
 
